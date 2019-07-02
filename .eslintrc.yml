@@ -1,5 +1,6 @@
 extends: airbnb
 env:
+<<<<<<< HEAD
   browser: true
   node: true
   mocha: true
@@ -9,3 +10,14 @@ rules:
   import/extensions: 0
   react/no-multi-comp: 0
   react/forbid-prop-types: 1
+=======
+ browser: true
+ node: true
+ mocha: true
+rules:
+ global-require: 0
+ react/no-array-index-key: 1
+ import/extensions: 0
+ react/no-multi-comp: 0
+ react/forbid-prop-types: 1
+>>>>>>> 887105f872bf749f7897db83845dfce8cdf6df5b
