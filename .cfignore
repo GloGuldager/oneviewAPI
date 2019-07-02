@@ -4,8 +4,4 @@ uploads
 logs
 npm-debug.log
 .idea
-<<<<<<< HEAD
 .vscode
-=======
-.vscode
->>>>>>> 887105f872bf749f7897db83845dfce8cdf6df5b
